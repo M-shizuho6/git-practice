@@ -1,2 +1,2 @@
 hoge
-aiueo
+aiueoaiueo
